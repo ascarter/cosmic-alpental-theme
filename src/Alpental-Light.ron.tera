@@ -25,7 +25,7 @@
         accent_orange: {{ ron_color(color=accents.warning_secondary) }},
         accent_yellow: {{ ron_color(color=palette_color(name="yellow", background=light.primary)) }},
         accent_green: {{ ron_color(color=accents.success_secondary) }},
-        accent_warm_grey: {{ ron_color(color=palette_color(name="warm_grey", background=light.primary)) }},
+        accent_warm_grey: {{ ron_color(color=light.text_secondary) }},
         ext_warm_grey: {{ ron_color(color=palette_color(name="warm_grey", background=light.primary)) }},
         ext_orange: {{ ron_color(color=accents.warning_secondary) }},
         ext_yellow: {{ ron_color(color=palette_color(name="yellow", background=light.primary)) }},

@@ -146,9 +146,9 @@
         alpha: 1.0000000,
     ),
         accent_warm_grey: (
-        red: 0.3764706,
-        green: 0.3490196,
-        blue: 0.3215686,
+        red: 0.2862745,
+        green: 0.2862745,
+        blue: 0.2862745,
         alpha: 1.0000000,
     ),
         ext_warm_grey: (
