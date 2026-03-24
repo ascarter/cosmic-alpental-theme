@@ -110,9 +110,9 @@
         alpha: 1.0000000,
     ),
         accent_purple: (
-        red: 0.5568628,
-        green: 0.3882353,
-        blue: 0.8392157,
+        red: 0.7294118,
+        green: 0.6235294,
+        blue: 0.8745098,
         alpha: 1.0000000,
     ),
         accent_pink: (
@@ -170,9 +170,9 @@
         alpha: 1.0000000,
     ),
         ext_blue: (
-        red: 0.1019608,
-        green: 0.5490196,
-        blue: 0.5960785,
+        red: 0.1058824,
+        green: 0.7372549,
+        blue: 0.8078431,
         alpha: 1.0000000,
     ),
         ext_purple: (
